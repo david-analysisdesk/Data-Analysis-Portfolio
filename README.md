@@ -43,6 +43,6 @@ As a data analyst with 5 years of experience, I've worked on a variety of projec
 ## Contact Information
 -----------------------
 
-* Email: [your email address]
-* LinkedIn: [your LinkedIn profile]
-* GitHub: [your GitHub profile]
+* Email: [davideziefuledesk@gmail.com](mailto:davideziefuledesk@gmail.com?subject=Data%20Analysis%20Project%20Inquiry "Email")
+* LinkedIn: [David-analysisdesk](https://www.linkedin.com/in/david-eziefule-46b667340/ "LinkedIn Profile")
+* GitHub: [David-analysisdesk](https://github.com/david-analysisdesk "GitHub Profile")
